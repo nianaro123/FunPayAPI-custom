@@ -1,0 +1,15 @@
+
+---
+
+## 5. Создай `.gitignore`
+
+```gitignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+build/
+dist/
+*.egg-info/
+.venv/
+venv/
